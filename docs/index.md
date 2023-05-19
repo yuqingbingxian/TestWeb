@@ -6,9 +6,9 @@
 
 ## 我的项目
 
-- [项目1](https://github.com/yuqingbingxian/TestWeb/docs/MMORPG/project1.md)
-- [项目2](https://github.com/yuqingbingxian/TestWeb/docs/MMORPG/project1.md)
-- [项目3](https://github.com/yuqingbingxian/TestWeb/docs/MMORPG/project1.md)
+- [项目1](https://yuqingbingxian.github.io/TestWeb/MMORPG/project1.html)
+- [项目2](https://yuqingbingxian.github.io/TestWeb/MMORPG/project1.html)
+- [项目3](https://yuqingbingxian.github.io/TestWeb/MMORPG/project1.html)
 
 ## 关于我
 
