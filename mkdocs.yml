@@ -1,5 +1,6 @@
 site_name: My Docs
 nav:
     - Home: index.md
-    - About: about.md
+    - About: README.md
+    - Project 1: MMORPG/project1.md
 theme: mkdocs
